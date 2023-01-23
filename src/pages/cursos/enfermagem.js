@@ -1,9 +1,7 @@
-import Header from "@/components/Header";
-
 export default function Enfermagem() {
   return (
     <>
-      <Header />
+      <h1>Enfermagem</h1>
     </>
   );
 }
